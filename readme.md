@@ -65,39 +65,12 @@ ecommerce_sales_dashboard/
 │
 ├── README.md                          # Project documentation
 ├── requirements.txt                   # Python dependencies
-├── LICENSE                            # MIT License
-│
-├── data/
-│   ├── raw/
-│   │   └── olist_ecommerce_raw.csv   # Original dataset
-│   └── processed/
-│       ├── cleaned_orders.csv
-│       ├── product_analysis.csv
-│       └── customer_segments.csv
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_sales_analysis.ipynb
-│   └── 04_customer_analysis.ipynb
 │
 ├── sql/
-│   ├── data_extraction.sql
-│   ├── product_aggregation.sql
-│   ├── monthly_sales.sql
-│   └── customer_metrics.sql
+│    └── sql_queries.sql
 │
-├── scripts/
-│   ├── data_cleaning.py
-│   ├── eda.py
-│   ├── analysis.py
-│   └── visualization.py
-│
-└── visualizations/
-    ├── sales_trends_chart.png
-    ├── top_products_chart.png
-    ├── dashboard_screenshot.png
-    └── customer_segments.png
+└── scripts/
+    └── eda_analysis.py
 ```
 
 ---
