@@ -61,7 +61,7 @@ This project answers these key business questions:
 ## 📁 Project Structure
 
 ```
-ecommerce-sales-dashboard/
+ecommerce_sales_dashboard/
 │
 ├── README.md                          # Project documentation
 ├── requirements.txt                   # Python dependencies
@@ -182,8 +182,7 @@ Improving logistics could significantly boost customer satisfaction and repeat p
 - Customer segmentation (scatter plot)
 - Payment method breakdown
 
-**Dashboard Link:** [Tableau Public Link - if available](https://public.tableau.com/yourlink)
-
+<!---**Dashboard Link:** [Tableau Public Link - if available](https://public.tableau.com/yourlink)--->
 **Interactive Elements:**
 - Date range filter (select custom date range)
 - Product category filter
@@ -206,8 +205,8 @@ Tableau Desktop or Tableau Public (free)
 
 1. **Clone Repository:**
 ```bash
-git clone https://github.com/yourname/ecommerce-sales-dashboard.git
-cd ecommerce-sales-dashboard
+git clone https://github.com/pakloong/ecommerce_sales_dashboard.git
+cd ecommerce_sales_dashboard
 ```
 
 2. **Install Python Dependencies:**
@@ -325,7 +324,7 @@ jupyter notebook
 
 ---
 
-## 📧 Contact & Collaboration
+<!--- ## 📧 Contact & Collaboration
 
 Have questions about this analysis or want to discuss similar projects?
 
@@ -334,7 +333,7 @@ Have questions about this analysis or want to discuss similar projects?
 - **Interested in:** Data analytics projects, business intelligence consulting, dashboard development
 
 ---
-
+---1>
 ## 📄 License
 
 MIT License - Feel free to fork, modify, and use this project as a reference or template.
