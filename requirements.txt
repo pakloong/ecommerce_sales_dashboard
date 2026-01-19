@@ -6,7 +6,7 @@ scipy==1.11.1
 -- Database & SQL
 sqlalchemy==2.0.19
 psycopg2-binary==2.9.6
-mysql-connector-python==8.0.33
+mysql-connector-python==9.1.0
 
 -- Visualization
 matplotlib==3.7.2
