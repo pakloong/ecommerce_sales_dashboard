@@ -21,7 +21,7 @@ ipykernel==6.25.1
 
 -- Data quality & testing
 great-expectations==0.17.6
-pytest==7.4.0
+pytest==9.0.3
 
 -- Utilities
 python-dotenv==1.0.0
